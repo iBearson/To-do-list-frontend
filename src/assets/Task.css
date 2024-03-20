@@ -1,0 +1,14 @@
+/* TaskStyles.css */
+.checkbox-right {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+
+.task-done-background {
+    background-color: #f0f0f0; /* Off-white/gray background */
+}
+
+.paper {
+    background-color: #EEEEEE;
+}
